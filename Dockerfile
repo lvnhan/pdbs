@@ -11,7 +11,8 @@ COPY requirements.txt .
 RUN pip install --upgrade pip
 
 # Cài đặt các thư viện Python yêu cầu
-RUN pip install --no-cache-dir -r requirements.txt
+#RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt --root-user-action=ignore
 
 # Sao chép mã nguồn ứng dụng vào container
 COPY . .
