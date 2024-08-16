@@ -6,8 +6,6 @@ chart-studio
 dash
 dash_bootstrap_components
 dash_bootstrap_templates
-dash_tabulator
-dash-extensions
 dash_daq
 geopanda
 python_dateutil
