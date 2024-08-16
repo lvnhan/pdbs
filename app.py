@@ -7,7 +7,7 @@ Created on Thu Aug 15 14:45:58 2024
 from dash import Dash, page_registry, page_container
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import ThemeSwitchAIO
-
+import os
 # select the Bootstrap stylesheets and figure templates for the theme toggle here:
 
 url_theme1 = dbc.themes.SIMPLEX
@@ -53,5 +53,7 @@ app.layout = dbc.Container(
 
 if __name__ == "__main__":
     # app.run_server(debug=True, use_reloader=False)
-    app.run_server(host="0.0.0.0", port=8050, debug=True, use_reloader=False)
+    # app.run_server(host="0.0.0.0", port=8050, debug=True, use_reloader=False)
+    port = int(os.environ.get("PORT", 8050))  # Lấy cổng từ biến môi trường PORT hoặc dùng 8050 nếu PORT không được đặt
+    app.run_server(host="0.0.0.0", port=port, debug=True, use_reloader=False)
 
