@@ -1,0 +1,253 @@
+ISOCode,Location,Location-en,RecDtm,Pop,Confirmed,ConfPerMillion,ConfDColors,Recovered,Deaths,WaveID,ProvCode,HASC,Latitude,Longtitude,VNAreaID,Domain,Domain-en,RegionID,RegionCode,Region,Region-en
+VN-01,Lai Châu,Lai Chau,2020-08-21 12:00:00,460196,1,2,0-100,1,0,1,12,VN.LI,22.3991,103.4393,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-02,Lào Cai,Lao Cai,2020-08-21 12:00:00,67206,9,134,101-500,2,0,1,10,VN.LO,22.4194,103.995,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-03,Hà Giang,Ha Giang,2020-08-21 12:00:00,38362,4,104,101-500,3,0,1,02,VN.HG,22.8233,104.9836,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-04,Cao Bằng,Cao Bang,2020-08-21 12:00:00,41112,0,0,0-100,0,0,1,04,VN.CB,22.6731,106.25,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-05,Sơn La,Son La,2020-08-21 12:00:00,19054,1,52,0-100,0,0,1,14,VN.SL,21.327,103.9141,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-06,Yên Bái,Yen Bai,2020-08-21 12:00:00,96540,5,52,0-100,5,0,1,15,VN.YB,21.7,104.8667,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-07,Tuyên Quang,Tuyen Quang,2020-08-21 12:00:00,36430,1,27,0-100,1,0,1,08,VN.TQ,21.8281,105.2156,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-09,Lạng Sơn,Lang Son,2020-08-21 12:00:00,148000,117,791,"501-1,000",20,1,1,20,VN.LS,21.8478,106.7578,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-13,Quảng Ninh,Quang Ninh,2020-08-21 12:00:00,172915,104,601,"501-1,000",87,0,1,22,VN.QN,20.95,107.0833,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-14,Hòa Bình,Hoa Binh,2020-08-21 12:00:00,121309,40,330,101-500,33,0,1,17,VN.HO,20.8172,105.3375,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-18,Ninh Bình,Ninh Binh,2020-08-21 12:00:00,130517,54,414,101-500,37,0,1,37,VN.NB,20.2539,105.975,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-20,Thái Bình,Thai Binh,2020-08-21 12:00:00,268167,78,291,101-500,56,0,1,34,VN.TB,20.4461,106.3422,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-21,Thanh Hóa,Thanh Hoa,2020-08-21 12:00:00,393294,78,198,101-500,26,0,1,38,VN.TH,19.8075,105.7764,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-22,Nghệ An,Nghe An,2020-08-21 12:00:00,490000,163,333,101-500,5,1,1,40,VN.NA,18.6733,105.6922,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-23,Hà Tĩnh,Ha Tinh,2020-08-21 12:00:00,165396,139,840,"501-1,000",20,1,1,42,VN.HT,18.3428,105.9058,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-24,Quảng Bình,Quang Binh,2020-08-21 12:00:00,160325,1,6,0-100,0,0,1,44,VN.QB,17.4833,106.6,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-25,Quảng Trị,Quang Tri,2020-08-21 12:00:00,72722,18,248,101-500,12,1,1,45,VN.QT,16.7504,107.2,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-26,Thừa Thiên-Huế,Thua Thien-Hue,2020-08-21 12:00:00,455230,13,29,0-100,6,0,1,46,VN.TT,16.4667,107.5833,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-27,Quảng Nam,Quang Nam,2020-08-21 12:00:00,1000000,166,166,101-500,123,3,1,49,VN.QM,15.8733,108.3327,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-28,Kon Tum,Kon Tum,2020-08-21 12:00:00,105489,0,0,0-100,0,0,1,62,VN.KT,14.3417,107.9792,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-29,Quảng Ngãi,Quang Ngai,2020-08-21 12:00:00,260252,219,841,"501-1,000",8,0,1,51,VN.QG,15.1206,108.7922,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-30,Gia Lai,Gia Lai,2020-08-21 12:00:00,146073,41,281,101-500,27,0,1,64,VN.GL,13.9833,108,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-31,Bình Định,Binh Dinh,2020-08-21 12:00:00,311000,53,170,101-500,1,0,1,52,VN.BD,13.7765,109.2237,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-32,Phú Yên,Phu Yen,2020-08-21 12:00:00,242840,732,3014,"1,001-5,000",28,0,1,54,VN.PY,13.0875,109.3106,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-33,Đắk Lắk,Dak Lak,2020-08-21 12:00:00,340000,14,41,0-100,4,0,1,66,VN.DC,12.6667,108.05,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-34,Khánh Hòa,Khanh Hoa,2020-08-21 12:00:00,392279,771,1965,"1,001-5,000",128,0,1,56,VN.KH,12.25,109.1833,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-35,Lâm Đồng,Lam Dong,2020-08-21 12:00:00,256019,19,74,0-100,0,0,1,68,VN.LD,11.9359,108.4429,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-36,Ninh Thuận,Ninh Thuan,2020-08-21 12:00:00,179773,50,278,101-500,12,0,1,58,VN.NT,11.5643,108.9886,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-37,Tây Ninh,Tay Ninh,2020-08-21 12:00:00,126370,257,2034,"1,001-5,000",51,1,1,72,VN.TN,11.3131,106.0963,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-39,Đồng Nai,Dong Nai,2020-08-21 12:00:00,349279,1005,2877,"1,001-5,000",32,2,1,75,VN.DN,10.9575,106.8426,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-40,Bình Thuận,Binh Thuan,2020-08-21 12:00:00,205333,126,614,"501-1,000",11,0,1,60,VN.BU,10.9375,108.1583,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-41,Long An,Long An,2020-08-21 12:00:00,137498,744,5411,"5,001-10,000",11,10,1,80,VN.LA,10.5322,106.4042,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-43,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,2020-08-21 12:00:00,327000,341,1043,"1,001-5,000",127,0,1,77,VN.BV,10.4042,107.1417,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-44,An Giang,An Giang,2020-08-21 12:00:00,278658,171,614,"501-1,000",9,1,1,89,VN.AG,10.7,105.1167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-45,Đồng Tháp,Dong Thap,2020-08-21 12:00:00,213610,1332,6236,"5,001-10,000",27,21,1,87,VN.DT,10.4603,105.6331,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-46,Tiền Giang,Tien Giang,2020-08-21 12:00:00,124143,895,7209,"5,001-10,000",5,1,1,82,VN.TG,10.35,106.35,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-47,Kiên Giang,Kien Giang,2020-08-21 12:00:00,250660,163,650,"501-1,000",27,0,1,91,VN.KG,10.2289,103.9572,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-49,Vĩnh Long,Vinh Long,2020-08-21 12:00:00,103314,381,3688,"1,001-5,000",13,0,1,86,VN.VL,10.255,105.9753,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-50,Bến Tre,Ben Tre,2020-08-21 12:00:00,59442,217,3651,"1,001-5,000",18,0,1,83,VN.BR,10.2333,106.3833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-51,Trà Vinh,Tra Vinh,2020-08-21 12:00:00,131360,87,662,"501-1,000",8,0,1,84,VN.TV,9.9369,106.3411,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-52,Sóc Trăng,Soc Trang,2020-08-21 12:00:00,300000,60,200,101-500,0,0,1,94,VN.ST,9.6,105.9719,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-53,Bắc Kạn,Bac Kan,2020-08-21 12:00:00,29227,6,205,101-500,0,0,1,06,VN.BK,22.1333,105.8333,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-54,Bắc Giang,Bac Giang,2020-08-21 12:00:00,53728,5951,110762,"100,001-500,000",3592,12,1,24,VN.BG,21.2731,106.1947,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-55,Bạc Liêu,Bac Lieu,2020-08-21 12:00:00,225000,65,289,101-500,53,0,1,95,VN.BL,9.2833,105.7167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-56,Bắc Ninh,Bac Ninh,2020-08-21 12:00:00,520000,1728,3323,"1,001-5,000",1042,11,1,27,VN.BN,21.1861,106.0763,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-57,Bình Dương,Binh Duong,2020-08-21 12:00:00,244277,3077,12596,"10,001-50,000",45,3,1,74,VN.BI,11.0042,106.6583,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-58,Bình Phước,Binh Phuoc,2020-08-21 12:00:00,40279,93,2309,"1,001-5,000",0,0,1,70,VN.BP,11.6504,106.6,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-59,Cà Mau,Ca Mau,2020-08-21 12:00:00,315270,26,82,0-100,8,0,1,96,VN.CM,9.1833,105.15,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-61,Hải Dương,Hai Duong,2020-08-21 12:00:00,507469,817,1610,"1,001-5,000",804,0,1,30,VN.HD,20.9411,106.3331,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-63,Hà Nam,Ha Nam,2020-08-21 12:00:00,158212,65,411,101-500,50,0,1,35,VN.HM,20.5453,105.9122,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-66,Hưng Yên,Hung Yen,2020-08-21 12:00:00,1252731,273,218,101-500,68,0,1,33,VN.HY,20.6464,106.0511,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-67,Nam Định,Nam Dinh,2020-08-21 12:00:00,352108,31,88,0-100,18,0,1,36,VN.ND,20.42,106.1683,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-68,Phú Thọ,Phu Tho,2020-08-21 12:00:00,277539,8,29,0-100,5,0,1,25,VN.PT,21.3228,105.4019,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-69,Thái Nguyên,Thai Nguyen,2020-08-21 12:00:00,330000,9,27,0-100,8,0,1,19,VN.TY,21.6,105.85,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-70,Vĩnh Phúc,Vinh Phuc,2020-08-21 12:00:00,119128,133,1116,"1,001-5,000",50,0,1,26,VN.VC,21.31,105.5967,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-71,Điện Biên,Dien Bien,2020-08-21 12:00:00,58519,59,1008,"1,001-5,000",52,0,1,11,VN.DB,21.3833,103.0169,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-72,Đắk Nông,Dak Nong,2020-08-21 12:00:00,63046,13,206,101-500,0,0,1,67,VN.DO,12.0042,107.6907,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-73,Hậu Giang,Hau Giang,2020-08-21 12:00:00,97200,47,484,101-500,0,0,1,93,VN.HU,9.7833,105.4708,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-CT,Cần Thơ,Can Tho,2020-08-21 12:00:00,1237300,145,117,101-500,35,0,1,92,VN.CN,10.0333,105.7833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-DN,Đà Nẵng,Da Nang,2020-08-21 12:00:00,185064,958,5177,"5,001-10,000",617,34,1,48,VN.DA,16.0748,108.224,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-HN,Hà Nội,Ha Noi,2020-08-21 12:00:00,7785000,945,121,101-500,518,20,1,01,VN.HI,21.0245,105.8412,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-HP,Hải Phòng,Hai Phong,2020-08-21 12:00:00,2103500,33,16,0-100,12,0,1,31,VN.HP,20.8,106.6667,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-SG,TP. Hồ Chí Minh,TP. Ho Chi Minh,2020-08-21 12:00:00,13312000,34408,2585,"1,001-5,000",692,123,1,79,VN.HC,10.8167,106.6333,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-01,Lai Châu,Lai Chau,2021-12-31 12:00:00,460196,68,148,101-500,35,0,2,12,VN.LI,22.3991,103.4393,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-02,Lào Cai,Lao Cai,2021-12-31 12:00:00,67206,402,5982,"5,001-10,000",165,0,2,10,VN.LO,22.4194,103.995,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-03,Hà Giang,Ha Giang,2021-12-31 12:00:00,38362,6504,169543,"100,001-500,000",3,0,2,02,VN.HG,22.8233,104.9836,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-04,Cao Bằng,Cao Bang,2021-12-31 12:00:00,41112,361,8781,"5,001-10,000",155,0,2,04,VN.CB,22.6731,106.25,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-05,Sơn La,Son La,2021-12-31 12:00:00,19054,759,39834,"10,001-50,000",380,0,2,14,VN.SL,21.327,103.9141,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-06,Yên Bái,Yen Bai,2021-12-31 12:00:00,96540,453,4692,"1,001-5,000",236,0,2,15,VN.YB,21.7,104.8667,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-07,Tuyên Quang,Tuyen Quang,2021-12-31 12:00:00,36430,923,25336,"10,001-50,000",480,0,2,08,VN.TQ,21.8281,105.2156,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-09,Lạng Sơn,Lang Son,2021-12-31 12:00:00,148000,1386,9365,"5,001-10,000",1,2,2,20,VN.LS,21.8478,106.7578,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-13,Quảng Ninh,Quang Ninh,2021-12-31 12:00:00,172915,2426,14030,"10,001-50,000",1,0,2,22,VN.QN,20.95,107.0833,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-14,Hòa Bình,Hoa Binh,2021-12-31 12:00:00,121309,1174,9678,"5,001-10,000",1,0,2,17,VN.HO,20.8172,105.3375,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-18,Ninh Bình,Ninh Binh,2021-12-31 12:00:00,130517,433,3318,"1,001-5,000",238,0,2,37,VN.NB,20.2539,105.975,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-20,Thái Bình,Thai Binh,2021-12-31 12:00:00,268167,2349,8759,"5,001-10,000",1,0,2,34,VN.TB,20.4461,106.3422,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-21,Thanh Hóa,Thanh Hoa,2021-12-31 12:00:00,393294,6535,16616,"10,001-50,000",2,0,2,38,VN.TH,19.8075,105.7764,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-22,Nghệ An,Nghe An,2021-12-31 12:00:00,490000,7116,14522,"10,001-50,000",3,3,2,40,VN.NA,18.6733,105.6922,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-23,Hà Tĩnh,Ha Tinh,2021-12-31 12:00:00,165396,1478,8936,"5,001-10,000",1,3,2,42,VN.HT,18.3428,105.9058,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-24,Quảng Bình,Quang Binh,2021-12-31 12:00:00,160325,3420,21332,"10,001-50,000",2,0,2,44,VN.QB,17.4833,106.6,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-25,Quảng Trị,Quang Tri,2021-12-31 12:00:00,72722,1812,24917,"10,001-50,000",0,2,2,45,VN.QT,16.7504,107.2,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-26,Thừa Thiên-Huế,Thua Thien-Hue,2021-12-31 12:00:00,455230,10978,24115,"10,001-50,000",5,0,2,46,VN.TT,16.4667,107.5833,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-27,Quảng Nam,Quang Nam,2021-12-31 12:00:00,1000000,5119,5119,"5,001-10,000",3,4,2,49,VN.QM,15.8733,108.3327,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-28,Kon Tum,Kon Tum,2021-12-31 12:00:00,105489,671,6361,"5,001-10,000",268,0,2,62,VN.KT,14.3417,107.9792,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-29,Quảng Ngãi,Quang Ngai,2021-12-31 12:00:00,260252,4898,18820,"10,001-50,000",1,0,2,51,VN.QG,15.1206,108.7922,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-30,Gia Lai,Gia Lai,2021-12-31 12:00:00,146073,6332,43348,"10,001-50,000",2,0,2,64,VN.GL,13.9833,108,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-31,Bình Định,Binh Dinh,2021-12-31 12:00:00,311000,12536,40309,"10,001-50,000",7,0,2,52,VN.BD,13.7765,109.2237,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-32,Phú Yên,Phu Yen,2021-12-31 12:00:00,242840,6176,25432,"10,001-50,000",2,0,2,54,VN.PY,13.0875,109.3106,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-33,Đắk Lắk,Dak Lak,2021-12-31 12:00:00,340000,10605,31191,"10,001-50,000",5,0,2,66,VN.DC,12.6667,108.05,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-34,Khánh Hòa,Khanh Hoa,2021-12-31 12:00:00,392279,28281,72094,"50,001-100,000",8,0,2,56,VN.KH,12.25,109.1833,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-35,Lâm Đồng,Lam Dong,2021-12-31 12:00:00,256019,7472,29185,"10,001-50,000",3,0,2,68,VN.LD,11.9359,108.4429,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-36,Ninh Thuận,Ninh Thuan,2021-12-31 12:00:00,179773,4539,25249,"10,001-50,000",3,0,2,58,VN.NT,11.5643,108.9886,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-37,Tây Ninh,Tay Ninh,2021-12-31 12:00:00,126370,69666,551286,"500,001-1,000,000",35,2,2,72,VN.TN,11.3131,106.0963,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-39,Đồng Nai,Dong Nai,2021-12-31 12:00:00,349279,96621,276630,"100,001-500,000",52,4,2,75,VN.DN,10.9575,106.8426,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-40,Bình Thuận,Binh Thuan,2021-12-31 12:00:00,205333,24657,120083,"100,001-500,000",11,0,2,60,VN.BU,10.9375,108.1583,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-41,Long An,Long An,2021-12-31 12:00:00,137498,40015,291022,"100,001-500,000",20,18,2,80,VN.LA,10.5322,106.4042,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-43,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,2021-12-31 12:00:00,327000,25619,78346,"50,001-100,000",13,0,2,77,VN.BV,10.4042,107.1417,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-44,An Giang,An Giang,2021-12-31 12:00:00,278658,31075,111517,"100,001-500,000",12,1,2,89,VN.AG,10.7,105.1167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-45,Đồng Tháp,Dong Thap,2021-12-31 12:00:00,213610,40334,188821,"100,001-500,000",17,57,2,87,VN.DT,10.4603,105.6331,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-46,Tiền Giang,Tien Giang,2021-12-31 12:00:00,124143,32605,262641,"100,001-500,000",16,1,2,82,VN.TG,10.35,106.35,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-47,Kiên Giang,Kien Giang,2021-12-31 12:00:00,250660,28631,114222,"100,001-500,000",12,0,2,91,VN.KG,10.2289,103.9572,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-49,Vĩnh Long,Vinh Long,2021-12-31 12:00:00,103314,26841,259800,"100,001-500,000",13,0,2,86,VN.VL,10.255,105.9753,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-50,Bến Tre,Ben Tre,2021-12-31 12:00:00,59442,24372,410013,"100,001-500,000",13,0,2,83,VN.BR,10.2333,106.3833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-51,Trà Vinh,Tra Vinh,2021-12-31 12:00:00,131360,18086,137683,"100,001-500,000",9,0,2,84,VN.TV,9.9369,106.3411,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-52,Sóc Trăng,Soc Trang,2021-12-31 12:00:00,300000,28630,95433,"50,001-100,000",15,0,2,94,VN.ST,9.6,105.9719,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-53,Bắc Kạn,Bac Kan,2021-12-31 12:00:00,29227,46,1574,"1,001-5,000",28,0,2,06,VN.BK,22.1333,105.8333,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-54,Bắc Giang,Bac Giang,2021-12-31 12:00:00,53728,7534,140225,"100,001-500,000",4,23,2,24,VN.BG,21.2731,106.1947,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-55,Bạc Liêu,Bac Lieu,2021-12-31 12:00:00,225000,26469,117640,"100,001-500,000",12,0,2,95,VN.BL,9.2833,105.7167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-56,Bắc Ninh,Bac Ninh,2021-12-31 12:00:00,520000,9616,18492,"10,001-50,000",3,20,2,27,VN.BN,21.1861,106.0763,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-57,Bình Dương,Binh Duong,2021-12-31 12:00:00,244277,289933,1186903,"Trên 1,000,000",81,5,2,74,VN.BI,11.0042,106.6583,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-58,Bình Phước,Binh Phuoc,2021-12-31 12:00:00,40279,20156,500410,"500,001-1,000,000",8,0,2,70,VN.BP,11.6504,106.6,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-59,Cà Mau,Ca Mau,2021-12-31 12:00:00,315270,31479,99848,"50,001-100,000",9,0,2,96,VN.CM,9.1833,105.15,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-61,Hải Dương,Hai Duong,2021-12-31 12:00:00,507469,2111,4160,"1,001-5,000",1,0,2,30,VN.HD,20.9411,106.3331,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-63,Hà Nam,Ha Nam,2021-12-31 12:00:00,158212,1915,12104,"10,001-50,000",1,0,2,35,VN.HM,20.5453,105.9122,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-66,Hưng Yên,Hung Yen,2021-12-31 12:00:00,1252731,3799,3033,"1,001-5,000",2,0,2,33,VN.HY,20.6464,106.0511,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-67,Nam Định,Nam Dinh,2021-12-31 12:00:00,352108,2877,8171,"5,001-10,000",1,0,2,36,VN.ND,20.42,106.1683,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-68,Phú Thọ,Phu Tho,2021-12-31 12:00:00,277539,2736,9858,"5,001-10,000",2,0,2,25,VN.PT,21.3228,105.4019,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-69,Thái Nguyên,Thai Nguyen,2021-12-31 12:00:00,330000,1509,4573,"1,001-5,000",1,0,2,19,VN.TY,21.6,105.85,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-70,Vĩnh Phúc,Vinh Phuc,2021-12-31 12:00:00,119128,2472,20751,"10,001-50,000",1,0,2,26,VN.VC,21.31,105.5967,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-71,Điện Biên,Dien Bien,2021-12-31 12:00:00,58519,534,9125,"5,001-10,000",230,0,2,11,VN.DB,21.3833,103.0169,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-72,Đắk Nông,Dak Nong,2021-12-31 12:00:00,63046,4467,70853,"50,001-100,000",1,0,2,67,VN.DO,12.0042,107.6907,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-73,Hậu Giang,Hau Giang,2021-12-31 12:00:00,97200,12034,123807,"100,001-500,000",6,0,2,93,VN.HU,9.7833,105.4708,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-CT,Cần Thơ,Can Tho,2021-12-31 12:00:00,1237300,37961,30681,"10,001-50,000",12,0,2,92,VN.CN,10.0333,105.7833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-DN,Đà Nẵng,Da Nang,2021-12-31 12:00:00,185064,10333,55835,"50,001-100,000",5,71,2,48,VN.DA,16.0748,108.224,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-HN,Hà Nội,Ha Noi,2021-12-31 12:00:00,7785000,34716,4459,"1,001-5,000",11,52,2,01,VN.HI,21.0245,105.8412,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-HP,Hải Phòng,Hai Phong,2021-12-31 12:00:00,2103500,5370,2553,"1,001-5,000",2,0,2,31,VN.HP,20.8,106.6667,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-SG,TP. Hồ Chí Minh,Ho Chi Minh City,2021-12-31 12:00:00,13312000,499513,37524,"10,001-50,000",130,160,2,79,VN.HC,10.8167,106.6333,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-01,Lai Châu,Lai Chau,2022-03-04 12:00:00,460196,9464,20565,"10,001-50,000",4,1,3,12,VN.LI,22.3991,103.4393,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-02,Lào Cai,Lao Cai,2022-03-04 12:00:00,67206,37051,551305,"500,001-1,000,000",14,3,3,10,VN.LO,22.4194,103.995,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-03,Hà Giang,Ha Giang,2022-03-04 12:00:00,38362,46126,1202388,"Trên 1,000,000",13,10,3,02,VN.HG,22.8233,104.9836,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-04,Cao Bằng,Cao Bang,2022-03-04 12:00:00,41112,17099,415913,"100,001-500,000",5,4,3,04,VN.CB,22.6731,106.25,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-05,Sơn La,Son La,2022-03-04 12:00:00,19054,36914,1937336,"Trên 1,000,000",11,3,3,14,VN.SL,21.327,103.9141,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-06,Yên Bái,Yen Bai,2022-03-04 12:00:00,96540,30321,314077,"100,001-500,000",13,5,3,15,VN.YB,21.7,104.8667,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-07,Tuyên Quang,Tuyen Quang,2022-03-04 12:00:00,36430,31057,852512,"500,001-1,000,000",13,3,3,08,VN.TQ,21.8281,105.2156,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-09,Lạng Sơn,Lang Son,2022-03-04 12:00:00,148000,36050,243581,"100,001-500,000",19,1,3,20,VN.LS,21.8478,106.7578,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-13,Quảng Ninh,Quang Ninh,2022-03-04 12:00:00,172915,96737,559448,"500,001-1,000,000",32,5,3,22,VN.QN,20.95,107.0833,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-14,Hòa Bình,Hoa Binh,2022-03-04 12:00:00,121309,51721,426357,"100,001-500,000",19,0,3,17,VN.HO,20.8172,105.3375,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-18,Ninh Bình,Ninh Binh,2022-03-04 12:00:00,130517,38847,297639,"100,001-500,000",22,3,3,37,VN.NB,20.2539,105.975,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-20,Thái Bình,Thai Binh,2022-03-04 12:00:00,268167,64161,239258,"100,001-500,000",17,1,3,34,VN.TB,20.4461,106.3422,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-21,Thanh Hóa,Thanh Hoa,2022-03-04 12:00:00,393294,45522,115745,"100,001-500,000",27,6,3,38,VN.TH,19.8075,105.7764,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-22,Nghệ An,Nghe An,2022-03-04 12:00:00,490000,69806,142461,"100,001-500,000",38,12,3,40,VN.NA,18.6733,105.6922,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-23,Hà Tĩnh,Ha Tinh,2022-03-04 12:00:00,165396,16746,101248,"100,001-500,000",9,1,3,42,VN.HT,18.3428,105.9058,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-24,Quảng Bình,Quang Binh,2022-03-04 12:00:00,160325,29183,182024,"100,001-500,000",11,2,3,44,VN.QB,17.4833,106.6,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-25,Quảng Trị,Quang Tri,2022-03-04 12:00:00,72722,17429,239666,"100,001-500,000",5,0,3,45,VN.QT,16.7504,107.2,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-26,Thừa Thiên-Huế,Thua Thien-Hue,2022-03-04 12:00:00,455230,28356,62289,"50,001-100,000",13,7,3,46,VN.TT,16.4667,107.5833,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-27,Quảng Nam,Quang Nam,2022-03-04 12:00:00,1000000,34658,34658,"10,001-50,000",16,6,3,49,VN.QM,15.8733,108.3327,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-28,Kon Tum,Kon Tum,2022-03-04 12:00:00,105489,7104,67344,"50,001-100,000",2,0,3,62,VN.KT,14.3417,107.9792,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-29,Quảng Ngãi,Quang Ngai,2022-03-04 12:00:00,260252,20408,78416,"50,001-100,000",9,4,3,51,VN.QG,15.1206,108.7922,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-30,Gia Lai,Gia Lai,2022-03-04 12:00:00,146073,20899,143072,"100,001-500,000",9,4,3,64,VN.GL,13.9833,108,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-31,Bình Định,Binh Dinh,2022-03-04 12:00:00,311000,55240,177621,"100,001-500,000",23,8,3,52,VN.BD,13.7765,109.2237,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-32,Phú Yên,Phu Yen,2022-03-04 12:00:00,242840,21102,86897,"50,001-100,000",7,4,3,54,VN.PY,13.0875,109.3106,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-33,Đắk Lắk,Dak Lak,2022-03-04 12:00:00,340000,41360,121647,"100,001-500,000",17,8,3,66,VN.DC,12.6667,108.05,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-34,Khánh Hòa,Khanh Hoa,2022-03-04 12:00:00,392279,82329,209874,"100,001-500,000",29,5,3,56,VN.KH,12.25,109.1833,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-35,Lâm Đồng,Lam Dong,2022-03-04 12:00:00,256019,30743,120081,"100,001-500,000",13,3,3,68,VN.LD,11.9359,108.4429,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-36,Ninh Thuận,Ninh Thuan,2022-03-04 12:00:00,179773,7228,40206,"10,001-50,000",2,1,3,58,VN.NT,11.5643,108.9886,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-37,Tây Ninh,Tay Ninh,2022-03-04 12:00:00,126370,93016,736061,"500,001-1,000,000",35,20,3,72,VN.TN,11.3131,106.0963,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-39,Đồng Nai,Dong Nai,2022-03-04 12:00:00,349279,101863,291638,"100,001-500,000",56,4,3,75,VN.DN,10.9575,106.8426,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-40,Bình Thuận,Binh Thuan,2022-03-04 12:00:00,205333,33472,163013,"100,001-500,000",10,8,3,60,VN.BU,10.9375,108.1583,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-41,Long An,Long An,2022-03-04 12:00:00,137498,42812,311365,"100,001-500,000",14,4,3,80,VN.LA,10.5322,106.4042,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-43,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,2022-03-04 12:00:00,327000,42614,130318,"100,001-500,000",21,7,3,77,VN.BV,10.4042,107.1417,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-44,An Giang,An Giang,2022-03-04 12:00:00,278658,36169,129797,"100,001-500,000",17,1,3,89,VN.AG,10.7,105.1167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-45,Đồng Tháp,Dong Thap,2022-03-04 12:00:00,213610,48170,225504,"100,001-500,000",16,10,3,87,VN.DT,10.4603,105.6331,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-46,Tiền Giang,Tien Giang,2022-03-04 12:00:00,124143,35552,286379,"100,001-500,000",16,0,3,82,VN.TG,10.35,106.35,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-47,Kiên Giang,Kien Giang,2022-03-04 12:00:00,250660,34684,138371,"100,001-500,000",16,1,3,91,VN.KG,10.2289,103.9572,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-49,Vĩnh Long,Vinh Long,2022-03-04 12:00:00,103314,55785,539956,"500,001-1,000,000",31,3,3,86,VN.VL,10.255,105.9753,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-50,Bến Tre,Ben Tre,2022-03-04 12:00:00,59442,45369,763248,"500,001-1,000,000",22,11,3,83,VN.BR,10.2333,106.3833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-51,Trà Vinh,Tra Vinh,2022-03-04 12:00:00,131360,39708,302284,"100,001-500,000",12,0,3,84,VN.TV,9.9369,106.3411,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-52,Sóc Trăng,Soc Trang,2022-03-04 12:00:00,300000,32391,107970,"100,001-500,000",13,7,3,94,VN.ST,9.6,105.9719,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-53,Bắc Kạn,Bac Kan,2022-03-04 12:00:00,29227,5856,200363,"100,001-500,000",4,1,3,06,VN.BK,22.1333,105.8333,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-54,Bắc Giang,Bac Giang,2022-03-04 12:00:00,53728,69153,1287094,"Trên 1,000,000",34,10,3,24,VN.BG,21.2731,106.1947,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-55,Bạc Liêu,Bac Lieu,2022-03-04 12:00:00,225000,37863,168280,"100,001-500,000",17,8,3,95,VN.BL,9.2833,105.7167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-56,Bắc Ninh,Bac Ninh,2022-03-04 12:00:00,520000,93015,178875,"100,001-500,000",44,8,3,27,VN.BN,21.1861,106.0763,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-57,Bình Dương,Binh Duong,2022-03-04 12:00:00,244277,301720,1235155,"Trên 1,000,000",121,54,3,74,VN.BI,11.0042,106.6583,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-58,Bình Phước,Binh Phuoc,2022-03-04 12:00:00,40279,62454,1550535,"Trên 1,000,000",35,6,3,70,VN.BP,11.6504,106.6,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-59,Cà Mau,Ca Mau,2022-03-04 12:00:00,315270,66535,211041,"100,001-500,000",30,1,3,96,VN.CM,9.1833,105.15,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-61,Hải Dương,Hai Duong,2022-03-04 12:00:00,507469,90759,178846,"100,001-500,000",25,12,3,30,VN.HD,20.9411,106.3331,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-63,Hà Nam,Ha Nam,2022-03-04 12:00:00,158212,18626,117728,"100,001-500,000",5,3,3,35,VN.HM,20.5453,105.9122,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-66,Hưng Yên,Hung Yen,2022-03-04 12:00:00,1252731,54628,43607,"10,001-50,000",22,11,3,33,VN.HY,20.6464,106.0511,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-67,Nam Định,Nam Dinh,2022-03-04 12:00:00,352108,83023,235788,"100,001-500,000",40,19,3,36,VN.ND,20.42,106.1683,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-68,Phú Thọ,Phu Tho,2022-03-04 12:00:00,277539,70525,254108,"100,001-500,000",26,6,3,25,VN.PT,21.3228,105.4019,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-69,Thái Nguyên,Thai Nguyen,2022-03-04 12:00:00,330000,77141,233761,"100,001-500,000",36,10,3,19,VN.TY,21.6,105.85,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-70,Vĩnh Phúc,Vinh Phuc,2022-03-04 12:00:00,119128,90547,760082,"500,001-1,000,000",24,17,3,26,VN.VC,21.31,105.5967,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-71,Điện Biên,Dien Bien,2022-03-04 12:00:00,58519,16261,277876,"100,001-500,000",9,4,3,11,VN.DB,21.3833,103.0169,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-72,Đắk Nông,Dak Nong,2022-03-04 12:00:00,63046,17861,283301,"100,001-500,000",10,2,3,67,VN.DO,12.0042,107.6907,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-73,Hậu Giang,Hau Giang,2022-03-04 12:00:00,97200,15855,163117,"100,001-500,000",6,1,3,93,VN.HU,9.7833,105.4708,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-CT,Cần Thơ,Can Tho,2022-03-04 12:00:00,1237300,45437,36723,"10,001-50,000",25,5,3,92,VN.CN,10.0333,105.7833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-DN,Đà Nẵng,Da Nang,2022-03-04 12:00:00,185064,56294,304187,"100,001-500,000",24,5,3,48,VN.DA,16.0748,108.224,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-HN,Hà Nội,Ha Noi,2022-03-04 12:00:00,7785000,319515,41042,"10,001-50,000",173,13,3,01,VN.HI,21.0245,105.8412,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-HP,Hải Phòng,Hai Phong,2022-03-04 12:00:00,2103500,74799,35559,"10,001-50,000",27,8,3,31,VN.HP,20.8,106.6667,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-SG,TP. Hồ Chí Minh,Ho Chi Minh City,2022-03-04 12:00:00,13312000,543647,40839,"10,001-50,000",272,125,3,79,VN.HC,10.8167,106.6333,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-01,Lai Châu,Lai Chau,2022-03-11 12:00:00,460196,23366,50774,"50,001-100,000",10,0,4,12,VN.LI,22.3991,103.4393,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-02,Lào Cai,Lao Cai,2022-03-11 12:00:00,67206,57096,849567,"500,001-1,000,000",17,7,4,10,VN.LO,22.4194,103.995,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-03,Hà Giang,Ha Giang,2022-03-11 12:00:00,38362,61142,1593817,"Trên 1,000,000",16,10,4,02,VN.HG,22.8233,104.9836,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-04,Cao Bằng,Cao Bang,2022-03-11 12:00:00,41112,32620,793442,"500,001-1,000,000",9,5,4,04,VN.CB,22.6731,106.25,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-05,Sơn La,Son La,2022-03-11 12:00:00,19054,71774,3766873,"Trên 1,000,000",33,14,4,14,VN.SL,21.327,103.9141,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-06,Yên Bái,Yen Bai,2022-03-11 12:00:00,96540,47506,492086,"100,001-500,000",28,0,4,15,VN.YB,21.7,104.8667,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-07,Tuyên Quang,Tuyen Quang,2022-03-11 12:00:00,36430,56629,1554461,"Trên 1,000,000",31,8,4,08,VN.TQ,21.8281,105.2156,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-09,Lạng Sơn,Lang Son,2022-03-11 12:00:00,148000,64390,435068,"100,001-500,000",26,6,4,20,VN.LS,21.8478,106.7578,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-13,Quảng Ninh,Quang Ninh,2022-03-11 12:00:00,172915,164449,951040,"500,001-1,000,000",66,26,4,22,VN.QN,20.95,107.0833,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-14,Hòa Bình,Hoa Binh,2022-03-11 12:00:00,121309,113829,938339,"500,001-1,000,000",31,17,4,17,VN.HO,20.8172,105.3375,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-18,Ninh Bình,Ninh Binh,2022-03-11 12:00:00,130517,59186,453473,"100,001-500,000",30,8,4,37,VN.NB,20.2539,105.975,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-20,Thái Bình,Thai Binh,2022-03-11 12:00:00,268167,83736,312253,"100,001-500,000",27,7,4,34,VN.TB,20.4461,106.3422,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-21,Thanh Hóa,Thanh Hoa,2022-03-11 12:00:00,393294,85024,216184,"100,001-500,000",48,0,4,38,VN.TH,19.8075,105.7764,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-22,Nghệ An,Nghe An,2022-03-11 12:00:00,490000,194339,396610,"100,001-500,000",66,25,4,40,VN.NA,18.6733,105.6922,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-23,Hà Tĩnh,Ha Tinh,2022-03-11 12:00:00,165396,22673,137083,"100,001-500,000",6,5,4,42,VN.HT,18.3428,105.9058,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-24,Quảng Bình,Quang Binh,2022-03-11 12:00:00,160325,48022,299529,"100,001-500,000",21,7,4,44,VN.QB,17.4833,106.6,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-25,Quảng Trị,Quang Tri,2022-03-11 12:00:00,72722,29886,410962,"100,001-500,000",11,7,4,45,VN.QT,16.7504,107.2,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-26,Thừa Thiên-Huế,Thua Thien-Hue,2022-03-11 12:00:00,455230,30763,67577,"50,001-100,000",8,5,4,46,VN.TT,16.4667,107.5833,4,Bắc Trung Bộ,North Central,2,VN.NC,Trung bộ,North Central
+VN-27,Quảng Nam,Quang Nam,2022-03-11 12:00:00,1000000,37042,37042,"10,001-50,000",13,1,4,49,VN.QM,15.8733,108.3327,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-28,Kon Tum,Kon Tum,2022-03-11 12:00:00,105489,9421,89308,"50,001-100,000",3,0,4,62,VN.KT,14.3417,107.9792,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-29,Quảng Ngãi,Quang Ngai,2022-03-11 12:00:00,260252,24212,93033,"50,001-100,000",12,2,4,51,VN.QG,15.1206,108.7922,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-30,Gia Lai,Gia Lai,2022-03-11 12:00:00,146073,28570,195587,"100,001-500,000",9,6,4,64,VN.GL,13.9833,108,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-31,Bình Định,Binh Dinh,2022-03-11 12:00:00,311000,78845,253521,"100,001-500,000",20,2,4,52,VN.BD,13.7765,109.2237,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-32,Phú Yên,Phu Yen,2022-03-11 12:00:00,242840,27052,111398,"100,001-500,000",11,1,4,54,VN.PY,13.0875,109.3106,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-33,Đắk Lắk,Dak Lak,2022-03-11 12:00:00,340000,64274,189041,"100,001-500,000",37,1,4,66,VN.DC,12.6667,108.05,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-34,Khánh Hòa,Khanh Hoa,2022-03-11 12:00:00,392279,97387,248260,"100,001-500,000",40,19,4,56,VN.KH,12.25,109.1833,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-35,Lâm Đồng,Lam Dong,2022-03-11 12:00:00,256019,38947,152125,"100,001-500,000",20,7,4,68,VN.LD,11.9359,108.4429,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-36,Ninh Thuận,Ninh Thuan,2022-03-11 12:00:00,179773,7430,41330,"10,001-50,000",3,0,4,58,VN.NT,11.5643,108.9886,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-37,Tây Ninh,Tay Ninh,2022-03-11 12:00:00,126370,100595,796035,"500,001-1,000,000",60,17,4,72,VN.TN,11.3131,106.0963,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-39,Đồng Nai,Dong Nai,2022-03-11 12:00:00,349279,103453,296190,"100,001-500,000",42,9,4,75,VN.DN,10.9575,106.8426,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-40,Bình Thuận,Binh Thuan,2022-03-11 12:00:00,205333,37584,183039,"100,001-500,000",18,8,4,60,VN.BU,10.9375,108.1583,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-41,Long An,Long An,2022-03-11 12:00:00,137498,44075,320550,"100,001-500,000",22,5,4,80,VN.LA,10.5322,106.4042,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-43,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,2022-03-11 12:00:00,327000,50326,153902,"100,001-500,000",15,10,4,77,VN.BV,10.4042,107.1417,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-44,An Giang,An Giang,2022-03-11 12:00:00,278658,36587,131297,"100,001-500,000",17,4,4,89,VN.AG,10.7,105.1167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-45,Đồng Tháp,Dong Thap,2022-03-11 12:00:00,213610,48558,227321,"100,001-500,000",17,5,4,87,VN.DT,10.4603,105.6331,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-46,Tiền Giang,Tien Giang,2022-03-11 12:00:00,124143,35678,287394,"100,001-500,000",11,5,4,82,VN.TG,10.35,106.35,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-47,Kiên Giang,Kien Giang,2022-03-11 12:00:00,250660,35557,141854,"100,001-500,000",18,2,4,91,VN.KG,10.2289,103.9572,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-49,Vĩnh Long,Vinh Long,2022-03-11 12:00:00,103314,60501,585603,"500,001-1,000,000",36,6,4,86,VN.VL,10.255,105.9753,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-50,Bến Tre,Ben Tre,2022-03-11 12:00:00,59442,54474,916423,"500,001-1,000,000",16,0,4,83,VN.BR,10.2333,106.3833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-51,Trà Vinh,Tra Vinh,2022-03-11 12:00:00,131360,52740,401492,"100,001-500,000",16,12,4,84,VN.TV,9.9369,106.3411,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-52,Sóc Trăng,Soc Trang,2022-03-11 12:00:00,300000,32661,108870,"100,001-500,000",18,5,4,94,VN.ST,9.6,105.9719,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-53,Bắc Kạn,Bac Kan,2022-03-11 12:00:00,29227,12285,420331,"100,001-500,000",6,0,4,06,VN.BK,22.1333,105.8333,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-54,Bắc Giang,Bac Giang,2022-03-11 12:00:00,53728,147922,2753164,"Trên 1,000,000",71,18,4,24,VN.BG,21.2731,106.1947,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-55,Bạc Liêu,Bac Lieu,2022-03-11 12:00:00,225000,39861,177160,"100,001-500,000",24,3,4,95,VN.BL,9.2833,105.7167,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-56,Bắc Ninh,Bac Ninh,2022-03-11 12:00:00,520000,212136,407954,"100,001-500,000",64,8,4,27,VN.BN,21.1861,106.0763,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-57,Bình Dương,Binh Duong,2022-03-11 12:00:00,244277,333615,1365724,"Trên 1,000,000",133,40,4,74,VN.BI,11.0042,106.6583,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-58,Bình Phước,Binh Phuoc,2022-03-11 12:00:00,40279,79806,1981330,"Trên 1,000,000",38,14,4,70,VN.BP,11.6504,106.6,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
+VN-59,Cà Mau,Ca Mau,2022-03-11 12:00:00,315270,88807,281686,"100,001-500,000",25,17,4,96,VN.CM,9.1833,105.15,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-61,Hải Dương,Hai Duong,2022-03-11 12:00:00,507469,117537,231614,"100,001-500,000",63,9,4,30,VN.HD,20.9411,106.3331,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-63,Hà Nam,Ha Nam,2022-03-11 12:00:00,158212,34639,218940,"100,001-500,000",14,2,4,35,VN.HM,20.5453,105.9122,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-66,Hưng Yên,Hung Yen,2022-03-11 12:00:00,1252731,86739,69240,"50,001-100,000",47,8,4,33,VN.HY,20.6464,106.0511,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-67,Nam Định,Nam Dinh,2022-03-11 12:00:00,352108,112211,318683,"100,001-500,000",34,22,4,36,VN.ND,20.42,106.1683,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-68,Phú Thọ,Phu Tho,2022-03-11 12:00:00,277539,141561,510058,"500,001-1,000,000",65,8,4,25,VN.PT,21.3228,105.4019,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-69,Thái Nguyên,Thai Nguyen,2022-03-11 12:00:00,330000,107355,325318,"100,001-500,000",44,9,4,19,VN.TY,21.6,105.85,2,Đông Bắc Bộ,Northeast,1,VN.NE,Bắc bộ,Northwes
+VN-70,Vĩnh Phúc,Vinh Phuc,2022-03-11 12:00:00,119128,153524,1288731,"Trên 1,000,000",69,28,4,26,VN.VC,21.31,105.5967,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-71,Điện Biên,Dien Bien,2022-03-11 12:00:00,58519,32257,551223,"500,001-1,000,000",12,4,4,11,VN.DB,21.3833,103.0169,1,Tây Bắc Bộ,Northwes,1,VN.NW,Bắc bộ,Northwes
+VN-72,Đắk Nông,Dak Nong,2022-03-11 12:00:00,63046,24650,390984,"100,001-500,000",13,1,4,67,VN.DO,12.0042,107.6907,6,Tây Nguyên,Central Highlands,2,VN.CH,Trung bộ,North Central
+VN-73,Hậu Giang,Hau Giang,2022-03-11 12:00:00,97200,16049,165113,"100,001-500,000",5,2,4,93,VN.HU,9.7833,105.4708,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-CT,Cần Thơ,Can Tho,2022-03-11 12:00:00,1237300,46640,37695,"10,001-50,000",24,0,4,92,VN.CN,10.0333,105.7833,8,Đồng bằng sông Cửu Long,Mekong River Delta | Southwest,3,VN.MR,Nam bộ,Southeast
+VN-DN,Đà Nẵng,Da Nang,2022-03-11 12:00:00,185064,71075,384056,"100,001-500,000",36,1,4,48,VN.DA,16.0748,108.224,5,Nam Trung Bộ,South Central Coast,2,VN.SC,Trung bộ,North Central
+VN-HN,Hà Nội,Ha Noi,2022-03-11 12:00:00,7785000,553911,71151,"50,001-100,000",161,127,4,01,VN.HI,21.0245,105.8412,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-HP,Hải Phòng,Hai Phong,2022-03-11 12:00:00,2103500,95332,45321,"10,001-50,000",40,10,4,31,VN.HP,20.8,106.6667,3,Đồng bằng sông Hồng,Red River Delta,1,VN.RR,Bắc bộ,Northwes
+VN-SG,TP. Hồ Chí Minh,Ho Chi Minh City,2022-03-11 12:00:00,13312000,565391,42472,"10,001-50,000",294,45,4,79,VN.HC,10.8167,106.6333,7,Đông Nam Bộ,Southeast,3,VN.SE,Nam bộ,Southeast
