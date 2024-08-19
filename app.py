@@ -12,16 +12,18 @@ import os
 
 url_theme1 = dbc.themes.SIMPLEX
 url_theme2 = dbc.themes.DARKLY
+
+# This stylesheet defines the "dbc" class.  Use it to style dash-core-components
+# and the dash DataTable with the bootstrap theme.
+dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
+# Tạo đối tượng app
+
+app = Dash(__name__, use_pages=True, external_stylesheets=[url_theme1, dbc_css], suppress_callback_exceptions=True)
 theme_toggle = ThemeSwitchAIO(
     aio_id="theme",
     themes=[url_theme1, url_theme2],
     icons={"left": "fa fa-sun", "right": "fa fa-moon"},
 )
-
-# This stylesheet defines the "dbc" class.  Use it to style dash-core-components
-# and the dash DataTable with the bootstrap theme.
-dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
-app = Dash(__name__, use_pages=True, external_stylesheets=[url_theme1, dbc_css], suppress_callback_exceptions=True)
 
 navbar = dbc.NavbarSimple(
     [
