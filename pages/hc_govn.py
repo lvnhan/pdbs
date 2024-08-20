@@ -397,14 +397,21 @@ def set_subareas_options(selected_area, selected_subarea):
 @callback(
     Output('locselector', 'value', allow_duplicate=True),
     [Input('locselector', 'value')],
-    [State('locselector', 'options')],
     prevent_initial_call='initial_duplicate'
     )
-def lstcallback(selected_loc, opts):
+def lstcallback(selected_loc):#opts
+
     if 'all' in selected_loc:
-        if len(selected_loc) > 1:  # Nếu 'all' được chọn cùng với các lựa chọn khác
-            selected_loc = [loc for loc in selected_loc if loc != 'all']
-    return selected_loc
+    # Kiểm tra xem "all" có phải là mục chọn cuối cùng không
+        if selected_loc[-1] == 'all':
+            # Nếu "all" là mục chọn cuối cùng, giữ lại "all" và xóa tất cả các mục khác
+            return ['all']
+        else:
+            # Nếu "all" không phải là mục chọn cuối cùng, xóa "all" và giữ lại các mục khác
+            return [loc for loc in selected_loc if loc != 'all']
+    else:
+        # Nếu "all" không có trong danh sách chọn, trả về danh sách hiện tại
+        return selected_loc
 
 #Check data validation from options list components
 @callback(
