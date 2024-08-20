@@ -12,3 +12,4 @@ python_dateutil>=2.9.0.post0
 shapely>=1.8.0
 fiona>=1.8.0
 pyproj>=3.3.0
+Gunicorn

@@ -19,6 +19,9 @@ dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.mi
 # Tạo đối tượng app
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[url_theme1, dbc_css], suppress_callback_exceptions=True)
+# Đặt cấu hình ứng dụng (không phải bắt buộc nhưng có thể thêm để đảm bảo)
+app.config['DEBUG'] = False
+
 theme_toggle = ThemeSwitchAIO(
     aio_id="theme",
     themes=[url_theme1, url_theme2],
