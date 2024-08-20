@@ -48,14 +48,22 @@ navbar = dbc.NavbarSimple(
 app.layout = dbc.Container(
     [
           navbar, 
-          theme_toggle, 
+          # theme_toggle, 
+          dbc.Row(
+              [ 
+                  dbc.Col(
+                    theme_toggle, 
+                    width=12,
+                    style={"min-height": "50px", "margin-bottom": "10px"}
+                    )
+                  ]
+              ), 
           page_container
       ], fluid=True, className="dbc"
 )
 
 if __name__ == "__main__":
-    # app.run_server(debug=True, use_reloader=False)
-    # app.run_server(host="0.0.0.0", port=8050, debug=True, use_reloader=False)
-    port = int(os.environ.get("PORT", 8050))  # Lấy cổng từ biến môi trường PORT hoặc dùng 8050 nếu PORT không được đặt
-    app.run_server(host="0.0.0.0", port=port, debug=True, use_reloader=False)
+    app.run_server(debug=True, use_reloader=False)
+    # port = int(os.environ.get("PORT", 8050))  # Lấy cổng từ biến môi trường PORT hoặc dùng 8050 nếu PORT không được đặt
+    # app.run_server(host="0.0.0.0", port=port, debug=True, use_reloader=False)
 

@@ -49,7 +49,7 @@ layout = html.Div(
                 ),
                 dbc.Button(
                     "Xem thêm",
-                    href="/your-first-page-url",  # Thay bằng URL tương ứng cho trang thứ nhất
+                    href="/hc_owid",  # Thay bằng URL tương ứng cho trang thứ nhất
                     color="primary",
                     className="mt-3 mb-5"
                 )
@@ -71,7 +71,7 @@ layout = html.Div(
                 ),
                 dbc.Button(
                     "Xem thêm",
-                    href="/your-second-page-url",  # Thay bằng URL tương ứng cho trang thứ hai
+                    href="/hc_govn",  # Thay bằng URL tương ứng cho trang thứ hai
                     color="primary",
                     className="mt-3 mb-5"
                 )

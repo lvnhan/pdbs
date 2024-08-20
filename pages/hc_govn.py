@@ -304,43 +304,43 @@ cgraph = {
 layout = dbc.Container(children=[
     dbc.Row(
         [
-            dbc.Col(xs=0, sm=0, md=1),
+            #dbc.Col(xs=0, sm=0, md=1),
             dbc.Col(
                 [
                     header,
                     switch,
-                ], xs=12, sm=12, md=10
+                ], xs=12, sm=12, md=12
             ),
-            dbc.Col(xs=0, sm=0, md=1)
+            #dbc.Col(xs=0, sm=0, md=1)
         ], 
         ),
     dbc.Row(
         [
-            dbc.Col(xs=0, sm=0, md=1),
-            dbc.Col(crictrl, xs=12, sm=12, md=10),
-            dbc.Col(xs=0, sm=0, md=1)
+            #dbc.Col(xs=0, sm=0, md=1),
+            dbc.Col(crictrl, xs=12, sm=12, md=12),
+            #dbc.Col(xs=0, sm=0, md=1)
         ], 
         ),#row_content_plot
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
+        #dbc.Col(xs=0, sm=0, md=1),
         dbc.Col(html.Div(cgraph['map'], 
                          # style={'height': 'calc(100vh - 60px)', 'width': '100%'},
                          style={'height': '100%', 'width': '100%'},
                          # style={'height': '600px'},
                          #className='bg-info'
-                         ), xs=12, sm=12, md=10, 
+                         ), xs=12, sm=12, md=12, 
                 # style={'height': 'calc(100vh - 60px)', 'border': '2px solid green'}
                 style={'height': '100%'}
                 ), 
-        dbc.Col(xs=0, sm=0, md=1),
+        #dbc.Col(xs=0, sm=0, md=1),
         ], style={'height': 'calc(100vh - 60px)'}, 
         ),
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
-        dbc.Col(bottom, xs=12, sm=12, md=10),
-        dbc.Col(xs=0, sm=0, md=1)
+        #dbc.Col(xs=0, sm=0, md=1),
+        dbc.Col(bottom, xs=12, sm=12, md=12),
+        #dbc.Col(xs=0, sm=0, md=1)
         ], 
         ),
     ],

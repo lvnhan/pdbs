@@ -248,10 +248,10 @@ card = {
 cards = html.Div([
         dbc.Row(
             [
-                dbc.Col(dbc.Card(card['0'])),
-                dbc.Col(dbc.Card(card['1'])),
-                dbc.Col(dbc.Card(card['2'])),
-                dbc.Col(dbc.Card(card['3'])),
+                dbc.Col(dbc.Card(card['0']), xs=12, sm=12, md=3),
+                dbc.Col(dbc.Card(card['1']), xs=12, sm=12, md=3),
+                dbc.Col(dbc.Card(card['2']), xs=12, sm=12, md=3),
+                dbc.Col(dbc.Card(card['3']), xs=12, sm=12, md=3),
             ],
             className="mb-0",
         )])
@@ -374,52 +374,52 @@ cgraph = {
 layout = dbc.Container(children=[
     dbc.Row(
         [
-            dbc.Col(xs=0, sm=0, md=1),
+            #dbc.Col(xs=0, sm=0, md=1),
             dbc.Col(
                 [
                     header,
                     switch,
-                ], xs=12, sm=12, md=10
+                ], xs=12, sm=12, md=12
             ),
-            dbc.Col(xs=0, sm=0, md=1)
+            #dbc.Col(xs=0, sm=0, md=1)
         ]
     ),
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
-        dbc.Col(cards, xs=12, sm=12, md=10),
-        dbc.Col(xs=0, sm=0, md=1)
+        #dbc.Col(xs=0, sm=0, md=1),
+        dbc.Col(cards, xs=12, sm=12, md=12),
+        #dbc.Col(xs=0, sm=0, md=1)
         ]
         ),
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
-        dbc.Col(crictrl, xs=12, sm=12, md=2, className="shadow-sm rounded m-1"),
-        dbc.Col(cgraph['line'], xs=12, sm=12, md=8, className="shadow-sm rounded m-1"), 
-        dbc.Col(xs=0, sm=0, md=1)
-        ],className="m-1"
+        #dbc.Col(xs=0, sm=0, md=1),
+        dbc.Col(crictrl, xs=12, sm=12, md=3 ),#, className="shadow-sm rounded m-1"
+        dbc.Col(cgraph['line'], xs=12, sm=12, md=9, className="shadow-sm rounded m-0"), 
+        #dbc.Col(xs=0, sm=0, md=1)
+        ],#className="m-1"
         ),
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
-        dbc.Col(xs=12, sm=12, md=2),
-        dbc.Col(cgraph['scatter'], xs=12, sm=12, md=8, className="shadow-sm rounded m-1"), 
-        dbc.Col(xs=0, sm=0, md=1)
+        #dbc.Col(xs=0, sm=0, md=1),
+        dbc.Col(xs=12, sm=12, md=3),
+        dbc.Col(cgraph['scatter'], xs=12, sm=12, md=9, className="shadow-sm rounded m-0"), #, className="shadow-sm rounded m-1"
+        #dbc.Col(xs=0, sm=0, md=1)
         ]
         ),
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
-        dbc.Col(xs=12, sm=12, md=2),
-        dbc.Col(ggraph, xs=12, sm=12, md=8, className="shadow-sm rounded m-1"),
-        dbc.Col(xs=0, sm=0, md=1)
+        #dbc.Col(xs=0, sm=0, md=1),
+        dbc.Col(xs=12, sm=12, md=3),
+        dbc.Col(ggraph, xs=12, sm=12, md=9, className="shadow-sm rounded m-0"),
+        #dbc.Col(xs=0, sm=0, md=1)
         ]
         ),
     dbc.Row(
         [
-        dbc.Col(xs=0, sm=0, md=1),
-        dbc.Col(bottom, xs=12, sm=12, md=10),
-        dbc.Col(xs=0, sm=0, md=1)
+        #dbc.Col(xs=0, sm=0, md=1),
+        dbc.Col(bottom, xs=12, sm=12, md=12),
+        #dbc.Col(xs=0, sm=0, md=1)
         ]
         ),
     ],
