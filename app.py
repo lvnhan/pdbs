@@ -19,7 +19,7 @@ dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.mi
 # Tạo đối tượng app
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[url_theme1, dbc_css], suppress_callback_exceptions=True)
-server = app.server
+#server = app.server
 
 theme_toggle = ThemeSwitchAIO(
     aio_id="theme",
