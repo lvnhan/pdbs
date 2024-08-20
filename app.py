@@ -19,7 +19,7 @@ dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.mi
 # Tạo đối tượng app
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[url_theme1, dbc_css], suppress_callback_exceptions=True)
-#server = app.server
+server = app.server
 
 theme_toggle = ThemeSwitchAIO(
     aio_id="theme",
@@ -67,5 +67,5 @@ app.layout = dbc.Container(
 if __name__ == "__main__":
     # app.run_server(debug=True, use_reloader=False)
     port = int(os.environ.get("PORT", 8050))  # Lấy cổng từ biến môi trường PORT hoặc dùng 8050 nếu PORT không được đặt
-    app.run_server(host="0.0.0.0", port=port, debug=True, use_reloader=False)
+    app.run_server(host="0.0.0.0", port=port, debug=False, use_reloader=False)
 
