@@ -432,7 +432,7 @@ def display_graphs(selected_wave, selected_area, selected_subarea, selected_loc,
     trigger_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None
     
     template = template_theme1 if toggle else template_theme2
-    s='Màn hình sáng' if toggle else 'Màn hình tốt'
+    #s='Màn hình sáng' if toggle else 'Màn hình tốt'
     
     if trigger_id in ['wave-slider', 'area', 'sub-area', 'locselector'] or trigger_id is None:
         ds = full_dataset[full_dataset['WaveID'] == selected_wave]
@@ -504,7 +504,9 @@ def display_graphs(selected_wave, selected_area, selected_subarea, selected_loc,
     )
     
     # Zoom map vào khu vực cần thiết
-    fig.update_geos(fitbounds="locations", resolution=110, visible=False)
+    fig.update_geos(fitbounds="locations", resolution=110, visible=False,
+                    projection_type="mercator"
+                    )
     
     fig.update_layout(template=template)
     
