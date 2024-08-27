@@ -505,7 +505,7 @@ def display_graphs(selected_wave, selected_area, selected_subarea, selected_loc,
     
     # Zoom map vào khu vực cần thiết
     fig.update_geos(fitbounds="locations", resolution=110, visible=False,
-                    projection_type="mercator"
+                    #projection_type="mercator"
                     )
     
     fig.update_layout(template=template)
